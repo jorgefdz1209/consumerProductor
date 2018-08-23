@@ -5,7 +5,7 @@ import com.netasystem.granja.Cochinito;
 
 public class Main {
 	public static void main(String[] args) throws InterruptedException {
-		//Error....
+		//Error.... en la ejecucion
 		
 		System.out.println("Ejemplo de productor consumidor");
 		Agricultor agricultor = new Agricultor();
