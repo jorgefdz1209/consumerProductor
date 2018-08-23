@@ -3,7 +3,7 @@ package com.netasystem.granja;
 import java.io.Serializable;
 
 public class Maiz implements Serializable {
-
+	//sin funcionamiento
 	private Integer cantidad;
 	private String descripcion;
 	

@@ -4,7 +4,7 @@ import java.util.ArrayDeque;
 import java.util.Queue;
 
 public class Parsela {
-	
+	//Sin funcionamiento
 	private static Queue<Maiz> parsela = new ArrayDeque<>();
 	private static boolean dispo = false;
 	

@@ -1,7 +1,7 @@
 package com.netasystem.granja;
 
 import java.util.Random;
-
+//sin funcionamiento
 public class Agricultor implements Runnable{
 	private Random r = new Random();
 	

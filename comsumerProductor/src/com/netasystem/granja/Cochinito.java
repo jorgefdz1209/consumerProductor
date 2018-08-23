@@ -1,7 +1,7 @@
 package com.netasystem.granja;
 
 public class Cochinito implements Runnable{
-	
+	//sin funcionamiento
 	public Cochinito() {
 		super();
 	}
